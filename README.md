@@ -1,6 +1,6 @@
 # GPU Frame Rendering Research Notebook
 
-A no-code, theory-first research repository for understanding how modern GPUs render high-speed game frames, from foundational linear algebra to deep silicon-level execution and display synchronization dynamics.
+A research repository for understanding how modern GPUs render high-speed game frames, from foundational linear algebra to deep silicon-level execution and display synchronization dynamics.
 
 ---
 
