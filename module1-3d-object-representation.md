@@ -1,7 +1,5 @@
 # How a 3D Object is Represented and Positioned in a Virtual World
-*A Class-12 friendly deep-dive into geometry, vectors, and coordinate transforms*
 
----
 
 ## 1) The 3D Grid (Model Space)
 
@@ -151,23 +149,6 @@ The projection matrix also defines what the camera can see:
 
 So projection is not just shrinking—it maps visible 3D space into normalized screen-ready coordinates.
 
----
-
-## 4) Check Your Understanding (Conceptual Puzzles)
-
-1. **Local vs World Coordinates**
-   A sword model has its tip at local coordinate \((0, 2, 0)\).
-   The sword is translated by \((5, 0, -3)\) into world space.
-   Where is the tip now, and why does the sword’s shape not change?
-
-2. **Distance and Apparent Size**
-   Two trees are physically identical. One is at \(z=10\), the other at \(z=40\).
-   Without doing exact rendering math, explain why one appears smaller and estimate how much smaller using the idea of division by \(z\).
-
-3. **Parallel Lines in 3D vs 2D Screen**
-   In world space, road lane lines are parallel forever.
-   On screen, they appear to meet near the horizon.
-   Explain this in terms of projection, depth compression, and vanishing points.
 
 ---
 
