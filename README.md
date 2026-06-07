@@ -148,6 +148,16 @@ A research repository for understanding how modern GPUs render high-speed game f
 
 ---
 
+## Current Module Notes
+
+- [Module 1 — 3D Object Representation and Positioning](./module1-3d-object-representation.md)
+- [Module 2 — Rasterization Stage and Discrete Mathematics](./module2-rasterization-discrete-math.md)
+- [Module 3 — Shading, Calculus, and Optics](./module3-shading-calculus-optics.md)
+- [Module 4 — Silicon Micro-architecture and Parallelism](./module4-silicon-microarchitecture-parallelism.md)
+- [Module 5 — Ultra-High Refresh Rate Synchronization](./module5-ultra-high-refresh-rate-synchronization.md)
+
+---
+
 ## Repository Structure (Template)
 
 ```text
